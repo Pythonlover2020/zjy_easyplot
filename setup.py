@@ -8,7 +8,7 @@ from setuptools import setup, Command
 # Package meta-data.
 NAME = 'zjy_easyplot'
 DESCRIPTION = '用于绘制函数图像'
-URL = 'https://github.com/Pythonlover2020/zhujangyu'
+URL = 'https://github.com/Pythonlover2020/zjy_easyplot'
 EMAIL = 'zhuhaibo8@163.com'
 AUTHOR = '朱江宇'
 REQUIRES_PYTHON = '>=3.5.0'
